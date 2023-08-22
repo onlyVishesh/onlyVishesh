@@ -26,7 +26,6 @@
         </samp>
 </h3>
 
-
 <p align="center"> 
   <samp>
     <a href="https://www.google.com/search?q=onlyVishesh">「 Google Me 」</a>
@@ -58,8 +57,6 @@
  </a>
  
 
-
-
   <!-- <a href="https://instagram.com/onlyVishesh.dev" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="onlyVishesh" />
  </a>  -->
@@ -69,9 +66,8 @@
   </a>  -->
  
 </p>
-<br />
-
 <!-- About Section -->
+
  # About me
  
 <p>
@@ -86,7 +82,6 @@
 
 </p>
 
-<br/>
 <br/>
 <br/>
 
@@ -122,14 +117,11 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-
 
 <!--
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -145,17 +137,11 @@
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 
 -->
-<br/>
-
-
 <!--
-
 ## Top Open Source -
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=onlyVishesh&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/onlyVishesh/web-projects)
 [![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=onlyVishesh&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/onlyVishesh/al-folio)
 [![Vishesh Teminal](https://github-readme-stats.vercel.app/api/pin/?username=onlyVishesh&repo=onlyVishesh.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/onlyVishesh/onlyVishesh.github.io)
-
-
 [![Vishesh Readme](https://github-readme-stats.vercel.app/api/pin/?username=onlyVishesh&repo=onlyVishesh&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/onlyVishesh/onlyVishesh)
 <p align="left">
   <a href="https://github.com/onlyVishesh?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
