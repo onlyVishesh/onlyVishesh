@@ -172,4 +172,5 @@
 ![Vishesh's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=onlyVishesh&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) -->
 
 
-<!-- for icons - https://github.com/Ileriayo/markdown-badges#-languages -->
+<!-- for icons - https://github.com/Ileriayo/markdown-badges#-languages https://dev.to/envoy_/150-badges-for-github-pnk
+or just search static badge io hackerrank and go to github repos-->
