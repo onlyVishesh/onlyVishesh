@@ -76,7 +76,7 @@
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  🔭 &emsp; I’m currently learning **Web Development** and you can Ask me about **WebD & Python**<br/><br/>
  📧 &emsp; Reach me anytime: Visheshmaurya14@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/onlyVishesh/onlyVishesh/issues)
+ 💬 &emsp; Ask me about anything [Here](https://github.com/onlyVishesh/onlyVishesh/issues)
  
 
 </p>
