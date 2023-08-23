@@ -48,11 +48,11 @@
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="onlyVishesh" />
  </a>  -->
  
- <a href="https://twitter.com/onlyVishesh_dev" target="_blank">
+ <a href="https://twitter.com/onlyVishesh" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-%2336465D?style=for-the-badge&logo=twitter&logoColor=blue" />
  </a>
 
- <a href=" https://www.hackerrank.com/visheshmaurya14" target="_blank">
+ <a href="https://www.hackerrank.com/visheshmaurya14" target="_blank">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
  </a>
  
